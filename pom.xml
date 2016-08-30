@@ -24,6 +24,13 @@
 			<organization>Fraunhofer FOKUS</organization>
 			<organizationUrl>http://www.fokus.fraunhofer.de</organizationUrl>
 		</developer>
+		<developer>
+			<name>Giuseppe Carella</name>
+			<email>giuseppe.a.carella@tu-berlin.de</email>
+			<organization>TU Berlin</organization>
+			<organizationUrl>https://www.tu-berlin.de/</organizationUrl>
+		</developer>
+
 	</developers>
 	<properties>
 		<java.version>1.7</java.version>
