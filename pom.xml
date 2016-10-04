@@ -7,24 +7,26 @@
 	<packaging>jar</packaging>
 	<name>nubomedia-media-client</name>
 	<description>The media client to use on together with Kurento client for depoying applications on the NUBOMEDIA cloud platform</description>
-	<organization>
-		<name>Fraunhofer FOKUS</name>
-		<url>www.fokus.fraunhofer.de</url>
-	</organization>
 	<licenses>
 		<license>
 			<name>The Apache License, Version 2.0</name>
 			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
 		</license>
 	</licenses>
+	<organization>
+		<name>NUBOMEDIA</name>
+		<url>http://www.nubomedia.eu/</url>
+	</organization>
+
 	<developers>
 		<developer>
-			<name>Cheambe Alice</name>
-			<email>alice.cheambe@fokus.fraunhofer.de</email>
-			<organization>Fraunhofer FOKUS</organization>
-			<organizationUrl>http://www.fokus.fraunhofer.de</organizationUrl>
+			<id>nubomedia.eu</id>
+			<name>-nubomedia.eu Community</name>
+			<organization>nubomedia.eu</organization>
+			<organizationUrl>http://www.nubomedia.eu</organizationUrl>
 		</developer>
 	</developers>
+
 	<properties>
 		<java.version>1.7</java.version>
 		<maven.javadoc.skip>false</maven.javadoc.skip>
